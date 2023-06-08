@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <category>
+        <pattern>Item</pattern>
+        <template>
+            Paket <!--item--> Harga <!--harga--> 
+        </template>
+    </category>
+</aiml>

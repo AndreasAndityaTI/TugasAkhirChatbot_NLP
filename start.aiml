@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <category>
+        <pattern>SELAMAT *</pattern>
+        <template>
+            Hallo, Selamat <star/>
+        </template>
+    </category>
+
+    <category>
+        <pattern>SAYA BERBICARA DENGAN SIAPA YA</pattern>
+        <template>
+            Wah, Saya Bot tanpa nama dan identitas.
+        </template>
+    </category>
+
+    <category>
+        <pattern>APA KABAR</pattern>
+        <template>
+        Baik... kabar kakak gimana?
+        </template>
+    </category>
+</aiml>
